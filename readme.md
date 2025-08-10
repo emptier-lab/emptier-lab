@@ -1,4 +1,4 @@
-# [emptyforce](https://empty.world)
+# [emptyforce](https://emptys.world)
 
 ## languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@ Most active in: JavaScript, HTML, Lua
 
 ## websites
 
-[my world](https://empty.world)  
+[my world](https://emptys.world)  
 [empty.tv](https://empty.rocks/)
 
 *one script at a time.*
