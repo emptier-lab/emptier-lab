@@ -24,12 +24,9 @@ I'm passionate developer who can make scripts and applications. My work spans fr
 ```
 222 contributions in the last year
 Most active in: JavaScript, HTML, Lua
-Recent commits: feature improvements
 ```
 
 ## github statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emptier-lab&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emptier-lab&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
