@@ -8,26 +8,25 @@ I build tools, automate processes, and create solutions through code. Currently 
 
 ## About Me
 
-I'm passionate about writing clean, functional scripts and developing practical applications. My work spans from Discord bots to web applications, with a focus on JavaScript, Lua, and HTML/CSS.
+I'm passionate developer who can make functional scripts and applications. My work spans from Discord bots to web applications, with a focus on JavaScript, Lua, and HTML/CSS.
 
 ## Current Projects
 
-**Pokedex** - A JavaScript-based Pokemon database application with search and filtering functionality
+**None**
 
-**Active Development** - Working on automation scripts and web utilities
+**Active Development** - Working on scripts and web aps.
 
 ## Technical Stack
 
 **Languages:** JavaScript, Lua, HTML/CSS, Python  
-**Tools:** Git, Node.js, VS Code  
-**Focus Areas:** Web Development, Automation, Bot Development
+**Tools:** Git, Node.js, VS Code, Zed
 
 ## Recent Activity
 
 ```
 222 contributions in the last year
 Most active in: JavaScript, HTML, Lua
-Recent commits: Pokedex development and feature improvements
+Recent commits: feature improvements
 ```
 
 ## GitHub Statistics
@@ -40,7 +39,7 @@ Recent commits: Pokedex development and feature improvements
 
 ## Connect
 
-**Website:** [dialer.life](https://dialer.life)  
+**Website:** [my world](https://empty.world)  
 **GitHub:** [@emptier-lab](https://github.com/emptier-lab)
-
-*Building useful tools, one script at a time.*
+**empty.tv:** [empty.tv](https://empty.rocks/)
+* one script at a time.*
