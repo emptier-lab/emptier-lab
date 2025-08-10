@@ -38,7 +38,6 @@ Recent commits: feature improvements
 ## websites
 
 [my world](https://empty.world)  
-[@emptier-lab](https://github.com/emptier-lab)  
 [empty.tv](https://empty.rocks/)
 
 *one script at a time.*
