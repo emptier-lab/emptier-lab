@@ -1,11 +1,5 @@
 # emptyforce
 
-**Script Developer & Digital Problem Solver**
-
-I build tools, automate processes, and create solutions through code. Currently focused on web technologies and automation scripting.
-
----
-
 ## About Me
 
 I'm passionate developer who can make functional scripts and applications. My work spans from Discord bots to web applications, with a focus on JavaScript, Lua, and HTML/CSS.
