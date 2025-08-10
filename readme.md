@@ -17,18 +17,7 @@
 
 ## About Me
 
-I'm passionate developer who can make functional scripts and applications. My work spans from Discord bots to web applications, with a focus on JavaScript, Lua, and HTML/CSS.
-
-## Current Projects
-
-**None**
-
-**Active Development** - Working on scripts and web apps.
-
-## Technical Stack
-
-**Languages:** JavaScript, Lua, HTML/CSS, Python  
-**Tools:** Git, Node.js, VS Code, Zed
+I'm passionate developer who can make scripts and applications. My work spans from Discord bots to web applications, with a focus on JavaScript, Lua, and HTML/CSS.
 
 ## Recent Activity
 
