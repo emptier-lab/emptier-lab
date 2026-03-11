@@ -22,7 +22,7 @@ I'm passionate developer who can make scripts and applications. My work spans fr
 ## recent activity
 
 ```
-250 contributions in the last year
+300 contributions in the last year
 Most active in: JavaScript, HTML, Lua
 ```
 
