@@ -6,7 +6,7 @@ I'm passionate developer who could make scripts.
 ## recent activity
 
 ```
-300 contributions in the last year
+mirage development
 ```
 
 ## github statistics
