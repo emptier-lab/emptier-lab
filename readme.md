@@ -11,6 +11,5 @@ I'm passionate developer who could make scripts.
 
 ## github statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emptier-lab&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emptier-lab)](https://git.io/streak-stats)
 *one .lua at a time.*
